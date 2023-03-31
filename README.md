@@ -1,2 +1,2 @@
 # nextcloud-install
-shell script to install nextcloud on linux mint os.
+shell script to install nextcloud with a self signed certificate.
