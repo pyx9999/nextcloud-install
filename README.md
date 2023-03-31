@@ -1,2 +1,2 @@
 # nextcloud-install
-shell script to install nextcloud snap package with a self signed certificate.
+shell script to install nextcloud snap package and generate a self signed certificate.
